@@ -1,14 +1,24 @@
 body {
     background-color: white;
     font-family: 'VT323', Monospace;
-    font-size:2em;
+    font-size:1em;
 }
 
 #header {
     background-color:black;
     color:white;
     Padding:10px;
-    Margin-bottom:20px;
+    Margin-bottom:0px;
+    font-size:3em;
+}
+
+.gray{
+    background-color: lightgrey;
+    font-size:2em;
+}
+
+.white{
+    background-color: white;
     font-size:2em;
 }
 
