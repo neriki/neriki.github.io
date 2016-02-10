@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+    font-family: Monospace;
+}
+
+#header {
+    background-color:black;
+    color:white;
+    Padding:10px;
+    Margin-bottom:20px;
+}
