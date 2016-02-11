@@ -9,16 +9,10 @@ var ch = {
 
 function changeText() {
   var spantxt = document.getElementById("neriki");
-  //var txt = spantxt.innerHTML;
-	var ncase = Math.round(Math.random() * txt.length) - 1;
-  
-  
-
+ 
   var nchar = Math.round(Math.random() * txt.length) - 1;
   
   if (nchar<0)nchar=0;
-
-	document.getElementById("debug").innerHTML=nchar;
 
   var txt2 = txt.substring(0, nchar ) + ch[txt.substring(nchar, nchar + 1)] + txt.substring(nchar + 1, txt.length);
 
