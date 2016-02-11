@@ -18,7 +18,7 @@ function changeText() {
 
   //txt += " pouet";
 
-  spantxt.innerHTML = txt2 + "    " + nchar;
+  spantxt.innerHTML = txt2;
 }
 
 
