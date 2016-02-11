@@ -1,10 +1,13 @@
-var txt = "NERIKI"
+var txt = "Neriki"
 var ch = {
-  "N": "|\\|",
-  "E": "3",
-  "R": "|?",
-  "I": "1",
-  "K": "|&lt;"
+  //"N": "|\\|",
+  "N": "n",
+  "e": "3",
+  //"R": "|?",
+  "r": "R",
+  "i": "1",
+  //"K": "|&lt;"
+  "k": "K"
 };
 
 function restoreText(){
