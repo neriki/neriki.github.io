@@ -31,7 +31,7 @@ function changeText() {
 
   spantxt.innerHTML = txt2;
   
-  setTimeout(restoreText, Math.round(Math.random() *500));
+  setTimeout(restoreText, Math.round(Math.random() *2000));
   
 }
 
