@@ -1,13 +1,13 @@
 body {
     background-color: white;
-    /*font-family: 'VT323', Monospace;*/
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'VT323', Monospace;
     font-size:1em;
 }
 
 #header {
     background-color:black;
     color:white;
+    font-family: 'Press Start 2P', cursive;
     Padding:10px;
     Margin-bottom:0px;
     font-size:3em;
